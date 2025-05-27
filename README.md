@@ -50,4 +50,3 @@ Profissionais de Recursos Humanos, recrutadores e gestores de empresas de pequen
 
 ---
 
-![Logo Challenge Lervenning](docs/banner.png)
