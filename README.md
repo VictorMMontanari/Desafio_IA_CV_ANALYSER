@@ -61,3 +61,15 @@ Este projeto utiliza o [Streamlit](https://streamlit.io) para criar uma interfac
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+
+# Linux/macOS
+python -m venv venv
+source venv/bin/activate
+
+# Windows
+python -m venv venv
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+streamlit run cv_analyser_rag_free_streamlit.py
