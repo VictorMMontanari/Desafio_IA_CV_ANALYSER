@@ -50,3 +50,14 @@ Profissionais de Recursos Humanos, recrutadores e gestores de empresas de pequen
 
 ---
 
+## ▶️ Como Executar o Projeto
+
+Este projeto utiliza o [Streamlit](https://streamlit.io) para criar uma interface web interativa para análise de currículos. Siga os passos abaixo para rodar o projeto localmente.
+
+---
+
+### ✅ 1. Clone o repositório
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
