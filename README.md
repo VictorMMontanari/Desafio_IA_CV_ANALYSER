@@ -56,7 +56,7 @@ Este projeto utiliza o [Streamlit](https://streamlit.io) para criar uma interfac
 
 ---
 
-### ✅ 1. Clone o repositório
+### ✅ 1. Clone o repositório e instale as dependências
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
@@ -70,6 +70,9 @@ source venv/bin/activate
 python -m venv venv
 venv\Scripts\activate
 
+# Instalar dependências
 pip install -r requirements.txt
 
+# Rodar a aplicação
 streamlit run cv_analyser_rag_free_streamlit.py
+
